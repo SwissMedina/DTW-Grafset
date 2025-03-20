@@ -1,8 +1,14 @@
-# DTW-Grafset
-DTW handwriting data of Grafset project
+# Longitudinal data Grafset 
+t1 (start first grade), t2 (end first grade), t3 (start second grade)
+## Research questions: 
+- Can handwriting consistency at t1 predict handwriting productivity and spelling at t3?
+- Can name writing processes at t1 predict handwriting productivity and spelling at t3?
 
-# Learning goals in R-week:
-# how to merge csv files based on a certain variable. save new file.
-# descriptive statistics
-# from long to wide format and reverse
-# define missings or outliers
+## DTW (handwriting consistency)
+## Hund (handwriting productivity)
+### Hund processes (CSWin)
+### Hund product (number of words/letters)
+## HSP (spelling)
+## EF data
+## child and background variables
+
